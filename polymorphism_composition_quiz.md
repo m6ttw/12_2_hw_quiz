@@ -28,13 +28,15 @@
 
 6. What do we mean by 'composition' in reference to object-oriented programming?
 
-    When an object's properties don't exist outside of that object
+    When objects are parts of another object
 
 7. When would you use composition? Provide a simple example in Java.
 
+    When we want an object to be part of another object e.g. having a brain as part of a Person
+
 8. Give a difference between composition and aggregation?
 
-    
+    With aggregation objects contained in an object can exist outwith that object
 
 9. What is/are the advantage(s) of using composition/aggregation?
 
